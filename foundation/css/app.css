@@ -1,0 +1,135 @@
+
+.body {
+	font-family: 'PT Serif', serif;
+	background-image: url(../img/food-2068217_1920.jpg);
+	margin: auto;
+	
+}
+
+p {
+	color:#2d4059;
+}
+
+.caja-comentarios p {
+	color: gray;
+	font-size: 13px;
+}
+
+h5 {
+	margin: 35px 0px 10px 0px;
+	float: right;
+	color:antiquewhite;
+}
+
+.caja-busqueda h5 {
+	margin:0px;
+	color: #f1eb9a;
+}
+
+
+
+.titulo-blog h5 {
+	float: left;
+	margin-bottom: 30px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Chonburi', cursive;
+	line-height: 1;
+	margin: 20px 0px 5px 0px;
+	color:#2d4059;
+
+}
+
+.img-post {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+	margin: 20px 0px;
+}
+
+
+.post {
+	background-color: #f1eb9a;
+}
+
+.avatar {
+	width: 90px; 
+	float: left; 
+	margin:0px 20px 40px 0;
+}
+
+.caja-comentarios {
+	margin: 50px 0;
+}
+
+.menu {
+	padding-bottom: 20px;
+	
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+li {
+	color:#f8a978;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+.button {
+	background-color:#f8a978;
+}
+
+.button:hover {
+	background-color:#a4f6a5;
+}
+
+.imagenes img {
+	width: 90px;
+	margin:7px 4px;
+}
+
+.caja-busqueda {
+	background:#2d4059;
+}
+
+.caja-favoritos {
+	background-color:#2d4059;
+}
+
+.caja-historial {
+	background-color:#2d4059;
+	padding-bottom: 30px;
+}
+
+.nav li a {
+	color: #2d4059;
+}
+
+.nav li a:hover {
+	color: #f8a978;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
